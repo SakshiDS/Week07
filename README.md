@@ -32,5 +32,6 @@ Week 7
 ### 3. Look at the requirements for the exploratory data analysis project. List at least 2 APIs that have data interesting to you. Please pick at least one API that’s not listed in the project instructions.
 
 Choice of APIs
+
       1. FBI Crime Data API - https://crime-data-explorer.fr.cloud.gov/api
       2. Global Wine Score API https://www.globalwinescore.com/api/
