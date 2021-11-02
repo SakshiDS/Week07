@@ -38,7 +38,7 @@ Choice of APIs
       
 ##                                                                            Week 7 HomeWork
 ========================================================================================================================================================================
-### explain what autoincrementing is. Also explain the difference between creating a join and a subquery. This section should be less than 300 words
+### Explain what autoincrementing is. Also explain the difference between creating a join and a subquery. This section should be less than 300 words
 
 Autoincrementing is a great tool while creating or altering a table to have a unique id. 
 With the help of a counter a unique digit will be added to the table for each new entry made. 
@@ -49,3 +49,6 @@ Join are used to combine rows of data from two or more tables on common column t
 While subquery is a standalone query initself which return a result which can be a single value or rowd of data. This is nested within the main query for processing data.
 Join always returns rows of data.
 In essence both combine data for processing. Depending on the what we want both of them can be useful tool for different purposes.
+
+### DataCamp - Joining Data in SQL
+![DataCamp - Joining Data in SQL](Joining_data_in_sql.png)
