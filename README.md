@@ -1,6 +1,6 @@
 # Week07
-Week 7
-
+##                                                                            Week 7 In Class Assignment
+===============================================================================================================================================================================
 ### 1. Grocery Store ER Diagram
 ![Grocery Store ER Diagram](https://lucid.app/publicSegments/view/408c7a66-548a-4942-98bb-60f7ca02de3f/image.png)
 
@@ -35,3 +35,17 @@ Choice of APIs
 
       1. FBI Crime Data API - https://crime-data-explorer.fr.cloud.gov/api
       2. Global Wine Score API https://www.globalwinescore.com/api/
+      
+##                                                                            Week 7 HomeWork
+========================================================================================================================================================================
+### explain what autoincrementing is. Also explain the difference between creating a join and a subquery. This section should be less than 300 words
+
+Autoincrementing is a great tool while creating or altering a table to have a unique id. 
+With the help of a counter a unique digit will be added to the table for each new entry made. 
+This can be specially useful when the data columns in the table might have duplicate values.
+Using autoincrement can help us create a primary key for the table.
+
+Join are used to combine rows of data from two or more tables on common column to process data.
+While subquery is a standalone query initself which return a result which can be a single value or rowd of data. This is nested within the main query for processing data.
+Join always returns rows of data.
+In essence both combine data for processing. Depending on the what we want both of them can be useful tool for different purposes.
