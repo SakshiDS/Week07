@@ -51,4 +51,4 @@ Join always returns rows of data.
 In essence both combine data for processing. Depending on the what we want both of them can be useful tool for different purposes.
 
 ### DataCamp - Joining Data in SQL
-![DataCamp - Joining Data in SQL](Joining_data_in_sql.png)
+![DataCamp - Joining Data in SQL](Joining_data_in_sql.PNG)
